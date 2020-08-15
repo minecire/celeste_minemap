@@ -1,0 +1,31 @@
+MINECIRE_MINEMAP_PROLOGUE_GRANNYCHAT1=
+[MADELINE left normal]
+Hi Granny!
+[GRANNY right normal]
+How you doin kiddo?
+[MADELINE left normal]
+Pretty good! 
+I decided today would be a great day for another climb to the top.
+[GRANNY right normal]
+That's my girl. You wanna try something new?
+There's another trail I found a while back that's a bit more dangerous than the normal path.
+
+MINECIRE_MINEMAP_PROLOGUE_GRANNYCHAT2=
+[MADELINE left normal]
+Wow! I didn't realize there was still more to explore.
+
+MINECIRE_MINEMAP_PROLOGUE_GRANNYCHAT3=
+[MADELINE left normal]
+How do you get there?
+[GRANNY right normal]
+Just follow the normal path for a bit, then take a right turn.
+You'll know it when you see it.
+Have a good climb!
+
+MINECIRE_MINEMAP_PROLOGUE_BREATHE1=
+[MADELINE left surprised]
+Gets me every time!
+
+minecire_minemap_minemap_prologue= Prologue
+minecire_minemap_minemap_trail= Trail
+minecire_minemap_minemap_trail_O_1= Breathing Room
